@@ -1,0 +1,14 @@
+# Termux / Android
+storage/
+.bash_history
+.cache/
+.local/
+.termux/
+
+# Secrets
+.env
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
