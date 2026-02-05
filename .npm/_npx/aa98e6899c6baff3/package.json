@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "astro": "^5.17.1"
+  },
+  "_npx": {
+    "packages": [
+      "astro"
+    ]
+  }
+}
